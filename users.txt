@@ -1,0 +1,3 @@
+mariuca,10
+george,8
+ana,4

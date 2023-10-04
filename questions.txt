@@ -1,0 +1,62 @@
+What does CPU stand for?,Central Processing Unit
+What is the capital of Spain?,Madrid
+In which country is the Eiffel Tower?,France
+What is the largest planet in our solar system?,Jupiter
+What does RAM stand for?,Random Access Memory
+Who painted the Mona Lisa?,Leonardo da Vinci
+What is the chemical symbol for gold?,Au
+How many continents are there on Earth?,7
+What gas do plants absorb from the atmosphere during photosynthesis?,CO2
+Who wrote the play "Romeo and Juliet"?,William Shakespeare
+What is the largest ocean in the world?,Pacific Ocean
+Who is known as the father of modern physics?,Albert Einstein
+What is the chemical symbol for oxygen?,O
+What is the smallest prime number?,2
+What is the national flower of Japan?,Cherry blossom
+Which gas do humans breathe out during respiration?,CO2
+What is the largest desert in the world?,Sahara 
+Who painted the Sistine Chapel ceiling?,Michelangelo
+What is the tallest mountain in the world?,Everest
+What is the currency of Australia?,AUD
+What is the chemical symbol for hydrogen?,H
+Which planet is known as the "Red Planet"?,Mars
+In which year did Christopher Columbus first reach the Americas?,1492
+Who wrote the novel "1984"?,George Orwell
+What is the capital of Brazil?,Brasilia
+What gas makes up the majority of Earth's atmosphere?,Nitrogen (N2)
+What is the chemical symbol for carbon?,C
+What is the most widely spoken language in the world?,Mandarin Chinese
+What is the national sport of Canada?,Ice hockey
+What is the chemical symbol for sodium?,Na
+What is the smallest planet in our solar system?,Mercury
+What is the largest organ in the human body?,Skin
+What is the capital of Russia?,Moscow
+What is the chemical symbol for silver?,Ag
+What is the national flower of India?,Lotus
+What is the currency of Japan?,Japanese Yen
+What is the chemical symbol for iron?,Fe
+What is the boiling point of water in degrees Celsius?,100
+What gas do plants give off during photosynthesis?,O2
+What is the capital of Italy?,Rome
+What is the chemical symbol for potassium?,K
+Who painted the "Starry Night"?,Vincent van Gogh
+What is the capital of Australia?,Canberra
+What is the chemical symbol for calcium?,Ca
+What is the national animal of Australia?,Kangaroo
+In which country was the game of chess first played?,India
+What is the currency of the United Kingdom?,Pound
+What is the chemical symbol for nitrogen?,N
+What is the chemical symbol for aluminum?,Al
+What is the deepest part of the world's oceans?,Mariana Trench
+Who was the first woman to win a Nobel Prize?,Marie Curie
+What is the capital of China?,Beijing
+What is the chemical symbol for uranium?,U
+Who painted the "Mona Lisa"?,Leonardo da Vinci
+What is the capital of Germany?,Berlin
+What is the chemical symbol for silicon?,Si
+What is the chemical symbol for mercury?,Hg
+What is the capital of France?,Paris
+What is the chemical symbol for nickel?,Ni
+What is the chemical symbol for phosphor?,P
+Who was the first person to set foot on the moon?,Neil Armstrong
+What is the capital of the United States?,Washington
